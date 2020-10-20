@@ -19,13 +19,13 @@ twitter-bot/
 ### Step 1️⃣
 
 ```shell
-$ git clone
-$ cd
+$ git clone https://github.com/KushagraMehta/twitter-bot.git
+$ cd twitter-bot
 ```
 
 ### Step 2️⃣
 
-Store your Twitter API Authentication Credentials in **.env**. You can get from [ Twitter developer site ](https://developer.twitter.com/)
+Store your Twitter API Authentication Credentials in **.env** file. You can get from [ Twitter developer site ](https://developer.twitter.com/)
 
 ### Step 3️⃣
 
